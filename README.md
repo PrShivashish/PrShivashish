@@ -2,14 +2,22 @@
 
 <div align="center">
 
-<!-- 🎨 EMBEDDED INTERACTIVE BANNER - DISPLAYS DIRECTLY -->
+<!-- 🎨 INTERACTIVE BANNER - EMBEDDED AS VIDEO/GIF -->
+<!-- Option 1: Upload recording of your index.html to GitHub assets -->
 <a href="https://prshivashish.github.io/PrShivashish/" target="_blank">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=SHIVASHISH%20PRUSTY&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI/ML%20Engineer%20|%20Full-Stack%20Architect%20|%20Innovation%20Catalyst&descSize=20&descAlignY=55" 
-    alt="Shivashish Prusty - AIML Innovation Engineer | Interactive Banner" 
+    src="./assets/banner.gif" 
+    alt="Shivashish Prusty - Interactive Banner with Animated Grid & Particles" 
     width="100%" 
+    style="border-radius: 12px; max-width: 1200px;"
   />
 </a>
+
+<!-- Alternative: Embed as HTML5 video for better quality -->
+<video width="100%" autoplay loop muted playsinline style="border-radius: 12px; max-width: 1200px;">
+  <source src="./assets/banner.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <!-- 🔥 DYNAMIC TYPING EFFECT BANNER -->
 <a href="https://git.io/typing-svg">

@@ -1,3 +1,26 @@
+<!-- ====== START OF README ====== -->
+
+<div align="center">
+
+<!-- 🎨 INTERACTIVE BANNER - HERO SECTION -->
+<a href="https://prshivashish.github.io/PrShivashish/" target="_blank" title="🎬 Click to see interactive animated banner with mouse parallax effects">
+  <img 
+    src="https://via.placeholder.com/1000x400/0a0e27/00f2fe?text=🚀+Click+Banner+to+Interact" 
+    alt="Shivashish Prusty - AIML Innovation Engineer | Interactive Banner" 
+    width="100%" 
+    style="border-radius: 12px; box-shadow: 0 10px 40px rgba(102, 126, 234, 0.3); max-width: 900px; transition: transform 0.3s; cursor: pointer;"
+    onmouseover="this.style.transform='scale(1.02)'" 
+    onmouseout="this.style.transform='scale(1)'"
+  />
+</a>
+
+<!-- 📌 Call-to-Action Below Banner -->
+<sub>👆 **Click the banner above to experience the interactive animated version with mouse parallax effects** 👆</sub>
+
+---
+
+</div>
+
 # 💫 About Me:
 🚀 About Me - AI Generalist & Visionary<br><br>"From first-principles thinking to production-ready systems — I architect AI/ML solutions that bridge the gap between research breakthroughs and real-world impact."<br><br>I'm a 3rd-year BTech CSE (AIML) student who doesn't just build projects — I ship production-grade systems. My GitHub isn't a portfolio; it's a deployment pipeline where every repository solves real problems with:<br><br>✅ End-to-End AI/ML Pipelines → Data → Model → API → Frontend → Cloud<br>✅ Full-Stack Mastery → React/Next.js + Python/FastAPI + PostgreSQL/MongoDB<br>✅ Computer Vision Innovation → Gemini 2.5 Flash, OpenCV, TensorFlow<br>✅ Cloud-Native Architecture → Docker, Render, Vercel, Heroku, Railway<br>✅ Production Mindset → CI/CD, Error Handling, Security, Scalability<br><br>🎯 What Drives Me<br><br>🧠 AI/ML Research-to-Production: I don't just train models — I deploy them at scale<br>💡 Problem-First Development: Every line of code solves a measurable pain point<br>🚢 Ship, Don't Procrastinate: From idea to live deployment in weeks, not months<br>📈 LinkedIn Content Creator: Sharing technical deep-dives to 1000+ followers<br>🏆 Certifications Collector: AWS DeepLearning.AI GenAI, IBM ML, Coursera specializations
 

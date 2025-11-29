@@ -50,7 +50,7 @@
 ### 📱 **PORTFOLIO**
 
 <a href="https://prshivashish.github.io/PrShivashish/" target="_blank">
-  <img src="portfolio-qr.jpg" alt="Portfolio QR Code" width="200" height="200" />
+  <img src="portfolio-qr.png" alt="Portfolio QR Code" width="200" height="200" />
 </a>
 
 **[https://prshivashish.github.io/PrShivashish/](https://prshivashish.github.io/PrShivashish/)**

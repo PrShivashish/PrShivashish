@@ -49,9 +49,13 @@
 
 ### 📱 **PORTFOLIO**
 
-<a href="https://prshivashish.github.io/PrShivashish/" target="_blank">
-  <img src="portfolio-qr.png" alt="Portfolio QR Code" width="200" height="200" />
-</a>
+<div style="background: white; border-radius: 24px; padding: 24px; display: inline-block; box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);">
+  <a href="https://prshivashish.github.io/PrShivashish/" target="_blank">
+    <img src="portfolio-qr.png" alt="Portfolio QR Code" width="200" height="200" style="display: block; border-radius: 12px;" />
+  </a>
+</div>
+
+<br/>
 
 **[https://prshivashish.github.io/PrShivashish/](https://prshivashish.github.io/PrShivashish/)**
 

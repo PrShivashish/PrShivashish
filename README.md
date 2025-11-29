@@ -44,6 +44,23 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PrShivashish&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+### 📱 **PORTFOLIO**
+
+<a href="https://prshivashish.github.io/PrShivashish/" target="_blank">
+  <img src="portfolio-qr.jpg" alt="Portfolio QR Code" width="200" height="200" />
+</a>
+
+**[https://prshivashish.github.io/PrShivashish/](https://prshivashish.github.io/PrShivashish/)**
+
+*Scan me to depart for Shivashish's portfolio*
+
+*Otherwise depart for portfolio from Terminal 2: [https://prshivashishportfolio.netlify.app/](https://prshivashishportfolio.netlify.app/)*
+
+</div>
+
+---
+
+<!-- Proudly created bu shivashish -->

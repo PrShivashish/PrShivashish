@@ -118,15 +118,6 @@
 
 <br/><br/>
 
-<!-- Animated SVG Progress Bar -->
-<svg width="200" height="8">
-  <rect width="200" height="8" fill="#1a1a2e" rx="4"/>
-  <rect width="200" height="8" fill="#00F2FE" rx="4">
-    <animate attributeName="width" from="0" to="200" dur="2s" fill="freeze"/>
-  </rect>
-</svg>
-
-<br/><br/>
 <sub><b>⚡ Lightning Fast Performance</b></sub>
 
 </td>
@@ -135,30 +126,12 @@
 <img src="https://img.shields.io/badge/📱-MOBILE_FIRST-FF6B6B?style=for-the-badge&logo=apple&logoColor=000000" />
 
 <br/><br/>
-
-<svg width="200" height="8">
-  <rect width="200" height="8" fill="#1a1a2e" rx="4"/>
-  <rect width="200" height="8" fill="#764ba2" rx="4">
-    <animate attributeName="width" from="0" to="200" dur="2s" fill="freeze"/>
-  </rect>
-</svg>
-
-<br/><br/>
 <sub><b>📱 Perfect Mobile Experience</b></sub>
 
 </td>
 <td align="center" width="33%">
 
 <img src="https://img.shields.io/badge/🌐-DUAL_HOSTING-667eea?style=for-the-badge&logo=vercel&logoColor=000000" />
-
-<br/><br/>
-
-<svg width="200" height="8">
-  <rect width="200" height="8" fill="#1a1a2e" rx="4"/>
-  <rect width="200" height="8" fill="#667eea" rx="4">
-    <animate attributeName="width" from="0" to="200" dur="2s" fill="freeze"/>
-  </rect>
-</svg>
 
 <br/><br/>
 <sub><b>🌐 Maximum Reliability</b></sub>

@@ -47,75 +47,93 @@
 
 <div align="center">
 
-<!-- PREMIUM PORTFOLIO CARD WITH GLASSMORPHISM EFFECT -->
-<table>
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=180&section=header&text=PORTFOLIO%20HUB&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=🚀%20Choose%20Your%20Terminal%20🌐&descSize=18&descAlignY=55" width="100%" />
+
+<!-- GLOWING TITLE WITH TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=2000&pause=500&color=00F2FE&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=✨+DUAL+PORTFOLIO+ACCESS+✨;🎯+SCAN+•+CLICK+•+EXPLORE+🎯;🚀+YOUR+GATEWAY+AWAITS+🚀" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- QR CODE CONTAINER WITH BADGES -->
+<table align="center">
 <tr>
-<td align="center" style="padding: 0; border: none;">
+<td align="center">
 
-<!-- Outer Glow Container -->
-<div style="background: linear-gradient(135deg, rgba(0, 242, 254, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%); border-radius: 32px; padding: 4px; display: inline-block; box-shadow: 0 0 60px rgba(0, 242, 254, 0.4), 0 20px 40px rgba(0, 0, 0, 0.2);">
+<!-- Top Badge -->
+<img src="https://img.shields.io/badge/🎯-SCAN_ME-00F2FE?style=for-the-badge&labelColor=1a1a2e&color=00F2FE" />
 
-<!-- Main White Card -->
-<div style="background: linear-gradient(145deg, #ffffff 0%, #f8f9fa 100%); border-radius: 28px; padding: 32px; box-shadow: inset 0 2px 4px rgba(255, 255, 255, 0.9), inset 0 -2px 4px rgba(0, 0, 0, 0.05);">
+<br/><br/>
 
-<!-- Header Section -->
-<div style="margin-bottom: 24px;">
-  <h3 style="margin: 0 0 8px 0; font-size: 28px; background: linear-gradient(135deg, #00F2FE 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-weight: 800; letter-spacing: 1px;">
-    📱 PORTFOLIO HUB
-  </h3>
-  <p style="margin: 0; color: #6c757d; font-size: 13px; font-weight: 500; letter-spacing: 0.5px;">
-    ✨ Your Gateway to Innovation ✨
-  </p>
-</div>
+<!-- QR CODE WITH SHIELD FRAME -->
+<a href="https://prshivashish.github.io/PrShivashish/" target="_blank">
+  <img src="portfolio-qr.png" alt="Portfolio QR Code" width="260" height="260" style="border-radius: 20px; box-shadow: 0 0 30px rgba(0, 242, 254, 0.6);" />
+</a>
 
-<!-- QR Code Container with Animated Border -->
-<div style="position: relative; display: inline-block; margin: 20px 0;">
-  <!-- Animated Border Effect -->
-  <div style="position: absolute; top: -8px; left: -8px; right: -8px; bottom: -8px; background: linear-gradient(45deg, #00F2FE, #764ba2, #00F2FE); border-radius: 24px; opacity: 0.6; filter: blur(8px);"></div>
-  
-  <!-- QR Code Card -->
-  <div style="position: relative; background: white; border-radius: 20px; padding: 20px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);">
-    <a href="https://prshivashish.github.io/PrShivashish/" target="_blank">
-      <img src="portfolio-qr.png" alt="Portfolio QR Code" width="220" height="220" style="display: block; border-radius: 16px; transition: transform 0.3s ease;" />
-    </a>
-  </div>
-</div>
+<br/><br/>
 
-<!-- Primary Link Badge -->
-<div style="margin: 24px 0 16px 0;">
-  <a href="https://prshivashish.github.io/PrShivashish/" target="_blank" style="text-decoration: none;">
-    <div style="background: linear-gradient(135deg, #00F2FE 0%, #00A8CC 100%); color: white; padding: 12px 28px; border-radius: 12px; font-weight: 600; font-size: 14px; display: inline-block; box-shadow: 0 4px 15px rgba(0, 242, 254, 0.4); transition: all 0.3s ease;">
-      🚀 TERMINAL 1: GITHUB PORTFOLIO
-    </div>
-  </a>
-</div>
-
-<!-- Divider -->
-<div style="width: 80%; height: 2px; background: linear-gradient(90deg, transparent, rgba(0, 242, 254, 0.5), transparent); margin: 16px auto;"></div>
-
-<!-- Secondary Link Badge -->
-<div style="margin: 16px 0 20px 0;">
-  <a href="https://prshivashishportfolio.netlify.app/" target="_blank" style="text-decoration: none;">
-    <div style="background: linear-gradient(135deg, #764ba2 0%, #667eea 100%); color: white; padding: 12px 28px; border-radius: 12px; font-weight: 600; font-size: 14px; display: inline-block; box-shadow: 0 4px 15px rgba(118, 75, 162, 0.4); transition: all 0.3s ease;">
-      ✈️ TERMINAL 2: NETLIFY PORTFOLIO
-    </div>
-  </a>
-</div>
-
-<!-- Footer Instruction -->
-<div style="margin-top: 24px; padding-top: 20px; border-top: 1px solid rgba(0, 242, 254, 0.2);">
-  <p style="margin: 0; color: #495057; font-size: 13px; font-weight: 500; line-height: 1.6;">
-    📱 <strong>Mobile:</strong> Scan the QR code above<br/>
-    💻 <strong>Desktop:</strong> Click your preferred terminal
-  </p>
-</div>
-
-</div>
-</div>
+<!-- Bottom Stats -->
+<img src="https://img.shields.io/badge/📱-MOBILE_READY-764ba2?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/💻-DESKTOP_READY-667eea?style=for-the-badge&labelColor=1a1a2e" />
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+<!-- DUAL TERMINAL BUTTONS WITH ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- TERMINAL 1 - GITHUB PORTFOLIO -->
+<a href="https://prshivashish.github.io/PrShivashish/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_TERMINAL_1-GITHUB_PORTFOLIO-00F2FE?style=for-the-badge&labelColor=1a1a2e&color=00F2FE&logoColor=white" height="45" />
+</a>
+
+<br/><br/>
+
+<!-- ANIMATED SEPARATOR -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="600" />
+
+<br/>
+
+<!-- TERMINAL 2 - NETLIFY PORTFOLIO -->
+<a href="https://prshivashishportfolio.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/✈️_TERMINAL_2-NETLIFY_PORTFOLIO-764ba2?style=for-the-badge&labelColor=1a1a2e&color=764ba2&logoColor=white" height="45" />
+</a>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- FEATURE BADGES GRID -->
+<table align="center">
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/QR_CODE-Enabled-00F2FE?style=flat-square&logo=qrcode&logoColor=white" /><br/>
+<sub><b>Instant Scan Access</b></sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/DUAL-Hosting-764ba2?style=flat-square&logo=vercel&logoColor=white" /><br/>
+<sub><b>GitHub + Netlify</b></sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/MOBILE-Optimized-667eea?style=flat-square&logo=safari&logoColor=white" /><br/>
+<sub><b>Responsive Design</b></sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- VISITOR COUNTER WITH STYLE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
 </div>
 

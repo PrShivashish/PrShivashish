@@ -47,38 +47,30 @@
 
 <div align="center">
 
-<!-- EXPLOSIVE HEADER -->
+<!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,24,30&height=200&section=header&text=🌟%20PORTFOLIO%20NEXUS%20🌟&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=⚡%20Dual-Reality%20Access%20Point%20⚡&descSize=22&descAlignY=55" width="100%" />
 
-<!-- MULTI-LINE TYPING EFFECT -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=38&duration=1500&pause=800&color=00F2FE&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=140&lines=🚀+ENTER+THE+MATRIX+🚀;💎+2+PORTFOLIOS+•+INFINITE+POSSIBILITIES;⚡+SCAN+QR+OR+CLICK+TERMINAL+⚡" alt="Matrix Typing" />
-</a>
-
-<!-- GLOWING DIVIDER -->
+<!-- ANIMATED LINE 1 (Wave Style) -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-<!-- QR ZONE WITH MULTI-BADGE FRAME -->
+<!-- QR ZONE -->
 <table align="center">
 <tr>
 <td align="center">
 
-<!-- Top Badge Row -->
 <img src="https://img.shields.io/badge/⚡-INSTANT_ACCESS-FFD700?style=for-the-badge&labelColor=000000&logo=lightning" />
 <img src="https://img.shields.io/badge/🔥-HOT_LINK-FF6B6B?style=for-the-badge&labelColor=000000" />
 
 <br/><br/>
 
-<!-- MEGA QR CODE -->
 <a href="https://prshivashish.github.io/PrShivashish/" target="_blank">
   <img src="portfolio-qr.png" alt="QR Gateway" width="280" height="280" />
 </a>
 
 <br/><br/>
 
-<!-- Bottom Badge Row -->
 <img src="https://img.shields.io/badge/📱-TAP_TO_SCAN-00F2FE?style=for-the-badge&labelColor=000000&logo=qrcode" />
 <img src="https://img.shields.io/badge/💻-CLICK_BELOW-764ba2?style=for-the-badge&labelColor=000000&logo=google-chrome" />
 
@@ -88,79 +80,70 @@
 
 <br/>
 
-<!-- TERMINAL SELECTION ZONE -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="80%" />
+<!-- ANIMATED LINE 2 (Rainbow Style) -->
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
-<br/><br/>
-
-<!-- TERMINAL 1 MEGA BUTTON -->
+<!-- TERMINAL 1 -->
 <a href="https://prshivashish.github.io/PrShivashish/" target="_blank">
   <img src="https://img.shields.io/badge/🚀_TERMINAL_1-GITHUB_PORTFOLIO-00F2FE?style=for-the-badge&labelColor=000000&color=00F2FE&logo=github&logoColor=white" height="50" />
 </a>
 <br/>
 <img src="https://img.shields.io/badge/STATUS-🟢_ONLINE_&_OPERATIONAL-00FF00?style=flat-square&labelColor=000000" />
 
-<br/><br/>
+<br/>
 
-<!-- ANIMATED RAINBOW DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="700" />
+<!-- ANIMATED LINE 3 (Gradient Wave) -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<br/><br/>
-
-<!-- TERMINAL 2 MEGA BUTTON -->
+<!-- TERMINAL 2 -->
 <a href="https://prshivashishportfolio.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/✈️_TERMINAL_2-NETLIFY_PORTFOLIO-764ba2?style=for-the-badge&labelColor=000000&color=764ba2&logo=netlify&logoColor=white" height="50" />
 </a>
 <br/>
 <img src="https://img.shields.io/badge/STATUS-🟢_ONLINE_&_BLAZING_FAST-00FF00?style=flat-square&labelColor=000000" />
 
-<br/><br/>
+<br/>
 
-<!-- CAPABILITIES SHOWCASE -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="80%" />
+<!-- ANIMATED LINE 4 (Fire Style) -->
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%">
 
-<br/><br/>
+<br/>
 
-<!-- STATS GRID -->
+<!-- GITHUB STATS GRID -->
 <table align="center">
 <tr>
-<td align="center" width="250">
-<img src="https://img.shields.io/badge/⚡-INSTANT_LOAD-FFD700?style=for-the-badge&logo=rocket" /><br/><br/>
-<img src="https://progress-bar.dev/100/?title=Speed&width=200&color=00F2FE" /><br/>
-<sub><b>Lightning Fast Performance</b></sub>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/⚡-INSTANT_LOAD-FFD700?style=for-the-badge&logo=rocket" />
+<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=PrShivashish&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE&text_color=FFFFFF" width="100%" />
 </td>
-<td align="center" width="250">
-<img src="https://img.shields.io/badge/📱-MOBILE_FIRST-FF6B6B?style=for-the-badge&logo=apple" /><br/><br/>
-<img src="https://progress-bar.dev/100/?title=Responsive&width=200&color=764ba2" /><br/>
-<sub><b>Perfect Mobile Experience</b></sub>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/📱-MOBILE_FIRST-FF6B6B?style=for-the-badge&logo=apple" />
+<br/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrShivashish&theme=radical&hide_border=true&background=0D1117&ring=764ba2&fire=FF6B6B" width="100%" />
 </td>
-<td align="center" width="250">
-<img src="https://img.shields.io/badge/🌐-DUAL_HOSTING-667eea?style=for-the-badge&logo=vercel" /><br/><br/>
-<img src="https://progress-bar.dev/100/?title=Uptime&width=200&color=667eea" /><br/>
-<sub><b>99.9% Uptime Guarantee</b></sub>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🌐-DUAL_HOSTING-667eea?style=for-the-badge&logo=vercel" />
+<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrShivashish&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea" width="100%" />
 </td>
 </tr>
 </table>
 
 <br/>
 
-<!-- TECH STACK BADGES -->
+<!-- TECH STACK -->
 <details>
 <summary><b>🛠️ TECH STACK POWERING THESE PORTFOLIOS</b></summary>
-
 <br/>
-
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,firebase,vercel,netlify,vscode,github,figma" />
-
 <br/><br/>
-
 <img src="https://img.shields.io/badge/Built_With-💎_Passion_&_Precision-FF1493?style=for-the-badge&labelColor=000000" />
-
 </details>
 
 <br/>
 
-<!-- FOOTER WAVE -->
+<!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=120&section=footer" width="100%" />
 
 </div>

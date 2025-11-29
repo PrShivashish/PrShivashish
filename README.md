@@ -43,6 +43,72 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+
+<div align="center">
+
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,24,30&height=200&section=header&text=🌟%20PORTFOLIO%20NEXUS%20🌟&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=⚡%20Dual-Reality%20Access%20Point%20⚡&descSize=22&descAlignY=55" width="100%" />
+
+<!-- ANIMATED LINE 1 (Wave Style) -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- QR ZONE -->
+<table align="center">
+<tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/⚡-INSTANT_ACCESS-FFD700?style=for-the-badge&labelColor=000000&logo=lightning" />
+<img src="https://img.shields.io/badge/🔥-HOT_LINK-FF6B6B?style=for-the-badge&labelColor=000000" />
+
+<br/><br/>
+
+<a href="https://prshivashish.github.io/PrShivashish/" target="_blank">
+  <img src="portfolio-qr.png" alt="QR Gateway" width="280" height="280" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/📱-TAP_TO_SCAN-00F2FE?style=for-the-badge&labelColor=000000&logo=qrcode" />
+<img src="https://img.shields.io/badge/💻-CLICK_BELOW-764ba2?style=for-the-badge&labelColor=000000&logo=google-chrome" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ANIMATED LINE 2 (Rainbow Style) -->
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+
+<!-- TERMINAL 1 -->
+<a href="https://prshivashish.github.io/PrShivashish/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_TERMINAL_1-GITHUB_PORTFOLIO-00F2FE?style=for-the-badge&labelColor=000000&color=00F2FE&logo=github&logoColor=white" height="50" />
+</a>
+<br/>
+<img src="https://img.shields.io/badge/STATUS-🟢_ONLINE_&_OPERATIONAL-00FF00?style=flat-square&labelColor=000000" />
+
+<br/>
+
+<!-- ANIMATED LINE 3 (Gradient Wave) -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- TERMINAL 2 -->
+<a href="https://prshivashishportfolio.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/✈️_TERMINAL_2-NETLIFY_PORTFOLIO-764ba2?style=for-the-badge&labelColor=000000&color=764ba2&logo=netlify&logoColor=white" height="50" />
+</a>
+<br/>
+<img src="https://img.shields.io/badge/STATUS-🟢_ONLINE_&_BLAZING_FAST-00FF00?style=flat-square&labelColor=000000" />
+
+<br/>
+
+<!-- ANIMATED LINE 4 (Fire Style) -->
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%">
+
+<br/>
+
 <!-- FEATURE SHOWCASE WITH ANIMATED BARS -->
 <table align="center">
 <tr>
@@ -56,7 +122,7 @@
 <svg width="200" height="8">
   <rect width="200" height="8" fill="#1a1a2e" rx="4"/>
   <rect width="200" height="8" fill="#00F2FE" rx="4">
-    <animate attributeName="width" from="0" to="200" dur="2s" fill="freeze"/>  ← NEW (animated)
+    <animate attributeName="width" from="0" to="200" dur="2s" fill="freeze"/>
   </rect>
 </svg>
 
@@ -64,8 +130,61 @@
 <sub><b>⚡ Lightning Fast Performance</b></sub>
 
 </td>
-...
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/📱-MOBILE_FIRST-FF6B6B?style=for-the-badge&logo=apple&logoColor=000000" />
+
+<br/><br/>
+
+<svg width="200" height="8">
+  <rect width="200" height="8" fill="#1a1a2e" rx="4"/>
+  <rect width="200" height="8" fill="#764ba2" rx="4">
+    <animate attributeName="width" from="0" to="200" dur="2s" fill="freeze"/>
+  </rect>
+</svg>
+
+<br/><br/>
+<sub><b>📱 Perfect Mobile Experience</b></sub>
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/🌐-DUAL_HOSTING-667eea?style=for-the-badge&logo=vercel&logoColor=000000" />
+
+<br/><br/>
+
+<svg width="200" height="8">
+  <rect width="200" height="8" fill="#1a1a2e" rx="4"/>
+  <rect width="200" height="8" fill="#667eea" rx="4">
+    <animate attributeName="width" from="0" to="200" dur="2s" fill="freeze"/>
+  </rect>
+</svg>
+
+<br/><br/>
+<sub><b>🌐 Maximum Reliability</b></sub>
+
+</td>
 </tr>
 </table>
+
+<br/>
+
+<!-- TECH STACK -->
+<details>
+<summary><b>🛠️ TECH STACK POWERING THESE PORTFOLIOS</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,firebase,vercel,netlify,vscode,github,figma" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Built_With-💎_Passion_&_Precision-FF1493?style=for-the-badge&labelColor=000000" />
+</details>
+
+<br/>
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=120&section=footer" width="100%" />
+
+</div>
+
+---
 
 <!-- Proudly created bu shivashish -->

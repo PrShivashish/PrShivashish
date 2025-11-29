@@ -47,34 +47,35 @@
 
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=180&section=header&text=PORTFOLIO%20HUB&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=🚀%20Choose%20Your%20Terminal%20🌐&descSize=18&descAlignY=55" width="100%" />
+<!-- EXPLOSIVE ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,24,30&height=220&section=header&text=🌌%20PORTFOLIO%20NEXUS%20🌌&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=32&desc=⚡%20Enter%20The%20Digital%20Gateway%20⚡&descSize=24&descAlignY=55" width="100%" />
 
-<!-- GLOWING DIVIDER -->
+<!-- GLOWING SEPARATOR -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<br/>
-
-<!-- QR CODE CONTAINER -->
-<table align="center">
+<!-- QR COMMAND CENTER -->
+<table align="center" style="border: none;">
 <tr>
 <td align="center">
 
-<!-- Top Badge -->
-<img src="https://img.shields.io/badge/🎯-SCAN_ME-00F2FE?style=for-the-badge&labelColor=1a1a2e&color=00F2FE" />
+<!-- Alert Badges -->
+<img src="https://img.shields.io/badge/⚡-LIVE_NOW-FFD700?style=for-the-badge&labelColor=000000&logo=lightning&logoColor=FFD700" />
+<img src="https://img.shields.io/badge/🔥-HOT_LINK-FF4500?style=for-the-badge&labelColor=000000&logo=fire&logoColor=FF4500" />
+<img src="https://img.shields.io/badge/✨-INSTANT-00F2FE?style=for-the-badge&labelColor=000000&logo=sparkles&logoColor=00F2FE" />
 
 <br/><br/>
 
-<!-- QR CODE -->
+<!-- MEGA QR CODE -->
 <a href="https://prshivashish.github.io/PrShivashish/" target="_blank">
-  <img src="portfolio-qr.png" alt="Portfolio QR Code" width="260" height="260" />
+  <img src="portfolio-qr.png" alt="Digital Gateway QR" width="300" height="300" />
 </a>
 
 <br/><br/>
 
-<!-- Bottom Stats -->
-<img src="https://img.shields.io/badge/📱-MOBILE_READY-764ba2?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/💻-DESKTOP_READY-667eea?style=for-the-badge&labelColor=1a1a2e" />
+<!-- Action Badges -->
+<img src="https://img.shields.io/badge/📱_MOBILE-SCAN_QR_CODE-00F2FE?style=for-the-badge&labelColor=000000&logo=qrcode&logoColor=00F2FE" />
+<br/>
+<img src="https://img.shields.io/badge/💻_DESKTOP-CLICK_TERMINAL_BELOW-764ba2?style=for-the-badge&labelColor=000000&logo=googlechrome&logoColor=764ba2" />
 
 </td>
 </tr>
@@ -82,51 +83,96 @@
 
 <br/>
 
-<!-- DUAL TERMINAL SECTION -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- TERMINAL DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4" width="90%" />
 
-<!-- TERMINAL 1 - GITHUB PORTFOLIO -->
-<a href="https://prshivashish.github.io/PrShivashish/" target="_blank">
-  <img src="https://img.shields.io/badge/🚀_TERMINAL_1-GITHUB_PORTFOLIO-00F2FE?style=for-the-badge&labelColor=1a1a2e&color=00F2FE" height="45" />
-</a>
+<br/><br/>
 
-<br/>
-
-<!-- COMPACT SEPARATOR -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="600" />
-
-<!-- TERMINAL 2 - NETLIFY PORTFOLIO -->
-<a href="https://prshivashishportfolio.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/✈️_TERMINAL_2-NETLIFY_PORTFOLIO-764ba2?style=for-the-badge&labelColor=1a1a2e&color=764ba2" height="45" />
-</a>
-
-<!-- BOTTOM DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- FEATURE BADGES GRID -->
+<!-- TERMINAL 1 WITH STATUS -->
 <table align="center">
 <tr>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/QR_CODE-Enabled-00F2FE?style=flat-square&logo=qrcode&logoColor=white" /><br/>
-<sub><b>Instant Scan Access</b></sub>
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/DUAL-Hosting-764ba2?style=flat-square&logo=vercel&logoColor=white" /><br/>
-<sub><b>GitHub + Netlify</b></sub>
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/MOBILE-Optimized-667eea?style=flat-square&logo=safari&logoColor=white" /><br/>
-<sub><b>Responsive Design</b></sub>
+<td align="center" width="600">
+
+<a href="https://prshivashish.github.io/PrShivashish/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_TERMINAL_1-GITHUB_PORTFOLIO-00F2FE?style=for-the-badge&labelColor=000000&color=00F2FE&logo=github&logoColor=white" height="55" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/STATUS-🟢_OPERATIONAL-00FF00?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/SPEED-⚡_INSTANT-FFD700?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/UPTIME-99.9%25-00F2FE?style=flat-square&labelColor=000000" />
+
+<br/>
+
+<img src="https://progress-bar.dev/100/?title=Performance&width=400&color=00F2FE" />
+
 </td>
 </tr>
 </table>
 
 <br/>
 
+<!-- RAINBOW DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="800" />
+
+<br/><br/>
+
+<!-- TERMINAL 2 WITH STATUS -->
+<table align="center">
+<tr>
+<td align="center" width="600">
+
+<a href="https://prshivashishportfolio.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/✈️_TERMINAL_2-NETLIFY_PORTFOLIO-764ba2?style=for-the-badge&labelColor=000000&color=764ba2&logo=netlify&logoColor=white" height="55" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/STATUS-🟢_BLAZING_FAST-00FF00?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/CDN-🌐_GLOBAL-764ba2?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/DEPLOY-⚡_INSTANT-FFD700?style=flat-square&labelColor=000000" />
+
+<br/>
+
+<img src="https://progress-bar.dev/100/?title=Performance&width=400&color=764ba2" />
+
+</td>
+</tr>
+</table>
+
+<br/><br/>
+
+<!-- TECH SHOWCASE -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=4" width="90%" />
+
+<br/><br/>
+
+<!-- CAPABILITIES GRID -->
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/⚡-LIGHTNING_FAST-FFD700?style=for-the-badge&logo=bolt&logoColor=000000" />
+<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=PrShivashish&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE&text_color=FFFFFF&count_private=true" width="100%" />
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🎨-PIXEL_PERFECT-FF6B6B?style=for-the-badge&logo=figma&logoColor=000000" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,firebase,vercel,netlify,vscode,github,figma,html,css" width="100%" />
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🚀-DEPLOY_READY-667eea?style=for-the-badge&logo=rocket&logoColor=000000" />
+<br/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrShivashish&theme=radical&hide_border=true&background=0D1117&ring=00F2FE&fire=FF6B6B&currStreakLabel=00F2FE" width="100%" />
+</td>
+</tr>
+</table>
+
+<br/><br/>
+
 <!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,24,12,6,2,0&height=140&section=footer" width="100%" />
 
 </div>
 

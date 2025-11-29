@@ -47,21 +47,75 @@
 
 <div align="center">
 
-### 📱 **PORTFOLIO**
+<!-- PREMIUM PORTFOLIO CARD WITH GLASSMORPHISM EFFECT -->
+<table>
+<tr>
+<td align="center" style="padding: 0; border: none;">
 
-<div style="background: white; border-radius: 24px; padding: 24px; display: inline-block; box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);">
-  <a href="https://prshivashish.github.io/PrShivashish/" target="_blank">
-    <img src="portfolio-qr.png" alt="Portfolio QR Code" width="200" height="200" style="display: block; border-radius: 12px;" />
+<!-- Outer Glow Container -->
+<div style="background: linear-gradient(135deg, rgba(0, 242, 254, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%); border-radius: 32px; padding: 4px; display: inline-block; box-shadow: 0 0 60px rgba(0, 242, 254, 0.4), 0 20px 40px rgba(0, 0, 0, 0.2);">
+
+<!-- Main White Card -->
+<div style="background: linear-gradient(145deg, #ffffff 0%, #f8f9fa 100%); border-radius: 28px; padding: 32px; box-shadow: inset 0 2px 4px rgba(255, 255, 255, 0.9), inset 0 -2px 4px rgba(0, 0, 0, 0.05);">
+
+<!-- Header Section -->
+<div style="margin-bottom: 24px;">
+  <h3 style="margin: 0 0 8px 0; font-size: 28px; background: linear-gradient(135deg, #00F2FE 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-weight: 800; letter-spacing: 1px;">
+    📱 PORTFOLIO HUB
+  </h3>
+  <p style="margin: 0; color: #6c757d; font-size: 13px; font-weight: 500; letter-spacing: 0.5px;">
+    ✨ Your Gateway to Innovation ✨
+  </p>
+</div>
+
+<!-- QR Code Container with Animated Border -->
+<div style="position: relative; display: inline-block; margin: 20px 0;">
+  <!-- Animated Border Effect -->
+  <div style="position: absolute; top: -8px; left: -8px; right: -8px; bottom: -8px; background: linear-gradient(45deg, #00F2FE, #764ba2, #00F2FE); border-radius: 24px; opacity: 0.6; filter: blur(8px);"></div>
+  
+  <!-- QR Code Card -->
+  <div style="position: relative; background: white; border-radius: 20px; padding: 20px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);">
+    <a href="https://prshivashish.github.io/PrShivashish/" target="_blank">
+      <img src="portfolio-qr.png" alt="Portfolio QR Code" width="220" height="220" style="display: block; border-radius: 16px; transition: transform 0.3s ease;" />
+    </a>
+  </div>
+</div>
+
+<!-- Primary Link Badge -->
+<div style="margin: 24px 0 16px 0;">
+  <a href="https://prshivashish.github.io/PrShivashish/" target="_blank" style="text-decoration: none;">
+    <div style="background: linear-gradient(135deg, #00F2FE 0%, #00A8CC 100%); color: white; padding: 12px 28px; border-radius: 12px; font-weight: 600; font-size: 14px; display: inline-block; box-shadow: 0 4px 15px rgba(0, 242, 254, 0.4); transition: all 0.3s ease;">
+      🚀 TERMINAL 1: GITHUB PORTFOLIO
+    </div>
   </a>
 </div>
 
-<br/>
+<!-- Divider -->
+<div style="width: 80%; height: 2px; background: linear-gradient(90deg, transparent, rgba(0, 242, 254, 0.5), transparent); margin: 16px auto;"></div>
 
-**[https://prshivashish.github.io/PrShivashish/](https://prshivashish.github.io/PrShivashish/)**
+<!-- Secondary Link Badge -->
+<div style="margin: 16px 0 20px 0;">
+  <a href="https://prshivashishportfolio.netlify.app/" target="_blank" style="text-decoration: none;">
+    <div style="background: linear-gradient(135deg, #764ba2 0%, #667eea 100%); color: white; padding: 12px 28px; border-radius: 12px; font-weight: 600; font-size: 14px; display: inline-block; box-shadow: 0 4px 15px rgba(118, 75, 162, 0.4); transition: all 0.3s ease;">
+      ✈️ TERMINAL 2: NETLIFY PORTFOLIO
+    </div>
+  </a>
+</div>
 
-*Scan me to depart for Shivashish's portfolio*
+<!-- Footer Instruction -->
+<div style="margin-top: 24px; padding-top: 20px; border-top: 1px solid rgba(0, 242, 254, 0.2);">
+  <p style="margin: 0; color: #495057; font-size: 13px; font-weight: 500; line-height: 1.6;">
+    📱 <strong>Mobile:</strong> Scan the QR code above<br/>
+    💻 <strong>Desktop:</strong> Click your preferred terminal
+  </p>
+</div>
 
-*Otherwise depart for portfolio from Terminal 2: [https://prshivashishportfolio.netlify.app/](https://prshivashishportfolio.netlify.app/)*
+</div>
+</div>
+
+</td>
+</tr>
+</table>
 
 </div>
 

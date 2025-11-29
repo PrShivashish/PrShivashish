@@ -50,14 +50,12 @@
 <!-- ANIMATED HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=180&section=header&text=PORTFOLIO%20HUB&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=🚀%20Choose%20Your%20Terminal%20🌐&descSize=18&descAlignY=55" width="100%" />
 
-<!-- GLOWING TITLE WITH TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=2000&pause=500&color=00F2FE&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=✨+DUAL+PORTFOLIO+ACCESS+✨;🎯+SCAN+•+CLICK+•+EXPLORE+🎯;🚀+YOUR+GATEWAY+AWAITS+🚀" alt="Typing SVG" />
-</a>
+<!-- GLOWING DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-<!-- QR CODE CONTAINER WITH BADGES -->
+<!-- QR CODE CONTAINER -->
 <table align="center">
 <tr>
 <td align="center">
@@ -67,9 +65,9 @@
 
 <br/><br/>
 
-<!-- QR CODE WITH SHIELD FRAME -->
+<!-- QR CODE -->
 <a href="https://prshivashish.github.io/PrShivashish/" target="_blank">
-  <img src="portfolio-qr.png" alt="Portfolio QR Code" width="260" height="260" style="border-radius: 20px; box-shadow: 0 0 30px rgba(0, 242, 254, 0.6);" />
+  <img src="portfolio-qr.png" alt="Portfolio QR Code" width="260" height="260" />
 </a>
 
 <br/><br/>
@@ -84,30 +82,25 @@
 
 <br/>
 
-<!-- DUAL TERMINAL BUTTONS WITH ANIMATED DIVIDER -->
+<!-- DUAL TERMINAL SECTION -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
 
 <!-- TERMINAL 1 - GITHUB PORTFOLIO -->
 <a href="https://prshivashish.github.io/PrShivashish/" target="_blank">
-  <img src="https://img.shields.io/badge/🚀_TERMINAL_1-GITHUB_PORTFOLIO-00F2FE?style=for-the-badge&labelColor=1a1a2e&color=00F2FE&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/🚀_TERMINAL_1-GITHUB_PORTFOLIO-00F2FE?style=for-the-badge&labelColor=1a1a2e&color=00F2FE" height="45" />
 </a>
 
-<br/><br/>
-
-<!-- ANIMATED SEPARATOR -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="600" />
-
 <br/>
+
+<!-- COMPACT SEPARATOR -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="600" />
 
 <!-- TERMINAL 2 - NETLIFY PORTFOLIO -->
 <a href="https://prshivashishportfolio.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/✈️_TERMINAL_2-NETLIFY_PORTFOLIO-764ba2?style=for-the-badge&labelColor=1a1a2e&color=764ba2&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/✈️_TERMINAL_2-NETLIFY_PORTFOLIO-764ba2?style=for-the-badge&labelColor=1a1a2e&color=764ba2" height="45" />
 </a>
 
-<br/>
-
+<!-- BOTTOM DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
@@ -132,7 +125,7 @@
 
 <br/>
 
-<!-- VISITOR COUNTER WITH STYLE -->
+<!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
 </div>
